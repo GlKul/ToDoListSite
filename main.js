@@ -9,3 +9,7 @@ function incrementCounter() {
 }
 
 incrementBtn.addEventListener('click', incrementCounter);
+
+function showMessage() {
+  alert( 'Всем привет!' );
+}
