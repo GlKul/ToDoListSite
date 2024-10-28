@@ -11,6 +11,11 @@ function incrementCounter() {
 incrementBtn.addEventListener('click', incrementCounter);
 
 
+function showMessage() {
+  let message = "Привет, я JavaScript!";
+  alert( message );
+
 function showMessage2() {
   alert( "Привет, я JavaScript!" );
+
 }
