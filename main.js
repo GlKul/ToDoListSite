@@ -10,3 +10,7 @@ function incrementCounter() {
 
 incrementBtn.addEventListener('click', incrementCounter);
 
+
+function showMessage2() {
+  alert( "Привет, я JavaScript!" );
+}
